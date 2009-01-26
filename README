@@ -1,0 +1,15 @@
+This is an experimental CloudKit OAuth client
+written in Python.
+
+It's derived from Yahoo's Fire Eagle OAuth
+tutorial.
+
+Modify the HOST to point to your server.
+
+At the moment, it can authenticate and do GET
+requests, but I haven't figured out how to
+properly do POST/PUT requests yet.
+
+Cheers,
+
+ - Jim

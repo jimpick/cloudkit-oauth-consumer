@@ -21,7 +21,7 @@ def escape(s):
 # file to store access token
 TOKEN_FILE = './access_token.pkl'
 
-SERVER = 'labs.jimpick.com'
+SERVER = '127.0.0.1'
 PORT = 9292
 HOST = SERVER + ":" + str(PORT)
 
